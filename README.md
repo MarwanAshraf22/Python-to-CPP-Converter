@@ -1,7 +1,7 @@
 
 # 🌀 Python-to-C++ Code Converter using LLMs
 
-This project provides a simple interface for converting Python code into optimized C++ code using a Hugging Face language model (`NTQAI/Nxcode-CQ-7B-orpo`). It uses Gradio for the UI and supports CUDA-based inference with 4-bit quantized models via `bitsandbytes`.
+This project offers a user-friendly interface for converting Python code into optimized C++ code using multiple LLMs, including OpenAI, Gemini, and the Hugging Face model NTQAI/Nxcode-CQ-7B-orpo. The interface is built with Gradio, providing a simple and interactive UI. It supports efficient inference using CUDA and 4-bit quantization via the bitsandbytes library for faster performance on compatible GPUs.
 
 ## 🧠 Overview
 
